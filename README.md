@@ -207,6 +207,11 @@ KILL 명렁어는 프로세스를 종료시키거나 신호를 보내는 데 사
 
 
   -KILLALL 명령어
+
+
   ![poster](./ALLKILL.png)
+
+
+  'process name'을 가진 모든 프로세스를 종료한다.
   
 
